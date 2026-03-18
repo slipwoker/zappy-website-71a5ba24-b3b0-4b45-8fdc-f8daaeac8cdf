@@ -1,6 +1,4 @@
-# מהרעיון לסירטון — Generative Engine Optimization Map
-
-> An AI-powered video generation application that allows users to simply type a text prompt and receive a fully generated video. The app bridges the gap between creative ideas and video production, making video creation accessible to anyone without technical skills. The core value proposition is simplicity and automation — from words to video in seconds.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,20 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מהרעיון לסירטון
-An AI-powered video generation application that allows users to simply type a text prompt and receive a fully generated video. The app bridges the gap between creative ideas and video production, making video creation accessible to anyone without technical skills. The core value proposition is simplicity and automation — from words to video in seconds.
-
-## Services/Products
-- יצירת סרטונים אוטומטית מפרומפט טקסט
-- ממשק כתיבת פרומפט
-
-## Target Audience
-- משפיעני רשת חברתית
-- יוצרי תוכן דיגיטלי
-
-## Industry
-טכנולוגיה / בינה מלאכותית / יצירת תוכן
-
+## About Business
 ---
 
 # Additional Resources
